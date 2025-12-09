@@ -93,73 +93,50 @@ SWITCH(
 
 ## 📊 Additional Metrics Implemented
 
-✅ YoY Growth %
-
-✅ Rolling 3-Month Average
-
-✅ Dynamic Ranking
-
-✅ Contribution %
+- ✅ YoY Growth %
+- ✅ Rolling 3-Month Average
+- ✅ Dynamic Ranking
+- ✅ Contribution %
 
 ## 📌 Key Business Insights (Sample)
 
-Outdoor Protection shows strong profit contribution compared to other categories.
-
-Web-based orders generate the highest revenue share.
-
-Seasonal revenue peaks are visible during mid-year months.
-
-Some regions show high revenue but lower margin, indicating cost optimization opportunities.
+- Outdoor Protection shows strong profit contribution compared to other categories.
+- Web-based orders generate the highest revenue share.
+- Seasonal revenue peaks are visible during mid-year months.
+- Some regions show high revenue but lower margin, indicating cost optimization opportunities.
 
 ## 🧠 Skills Demonstrated
-
-Power BI Dashboard Development
-
-Star Schema Data Modeling
-
-Advanced DAX Measures
-
-Dynamic KPI Switching using Disconnected Tables
-
-Time Intelligence (YoY, Monthly Trends)
-
-Interactive Tooltips
-
-Business-Oriented Data Storytelling
-
-Executive Dashboard UI Design
+- Power BI Dashboard Development
+- Star Schema Data Modeling
+- Advanced DAX Measures
+- Dynamic KPI Switching using Disconnected Tables
+- Time Intelligence (YoY, Monthly Trends)
+- Interactive Tooltips
+- Business-Oriented Data Storytelling
+- Executive Dashboard UI Design
 
 ## 🧰 Tools & Technologies
 
-Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Microsoft Excel (Data Preparation)
-
-Star Schema Modeling
-
-Azure Maps / Modern Map Visuals
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Star Schema Modeling
+- Azure Maps / Modern Map Visuals
 
 ## ⬇️ Download Instructions
 
-Click on the .pbix file in this repository.
-
-Click View Raw to download.
-
-Open the file using Power BI Desktop.
+- Click on the .pbix file in this repository.
+- Click View Raw to download.
+- Open the file using Power BI Desktop.
 
 ## ⚠️ Disclaimer
 
 The dataset used in this project is for demonstration and learning purposes only.
-
 This dashboard does not represent real company data.
-
 Some visuals may require map permissions to be enabled in Power BI.
 
 ## 👤 Author
 
-Wajahat Naseem
+Mohd Wajahatullah Naseem
 Aspiring Data Analyst | Power BI Developer
 🔗 GitHub: https://github.com/wajahatnaseem
 
