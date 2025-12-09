@@ -91,7 +91,7 @@ SWITCH(
 )
 ```
 
-📊 Additional Metrics Implemented
+## 📊 Additional Metrics Implemented
 
 ✅ YoY Growth %
 
@@ -101,7 +101,7 @@ SWITCH(
 
 ✅ Contribution %
 
-📌 Key Business Insights (Sample)
+## 📌 Key Business Insights (Sample)
 
 Outdoor Protection shows strong profit contribution compared to other categories.
 
@@ -111,7 +111,7 @@ Seasonal revenue peaks are visible during mid-year months.
 
 Some regions show high revenue but lower margin, indicating cost optimization opportunities.
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 Power BI Dashboard Development
 
@@ -129,7 +129,7 @@ Business-Oriented Data Storytelling
 
 Executive Dashboard UI Design
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 Power BI Desktop
 
@@ -141,7 +141,7 @@ Star Schema Modeling
 
 Azure Maps / Modern Map Visuals
 
-⬇️ Download Instructions
+## ⬇️ Download Instructions
 
 Click on the .pbix file in this repository.
 
@@ -149,7 +149,7 @@ Click View Raw to download.
 
 Open the file using Power BI Desktop.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 The dataset used in this project is for demonstration and learning purposes only.
 
@@ -157,7 +157,7 @@ This dashboard does not represent real company data.
 
 Some visuals may require map permissions to be enabled in Power BI.
 
-👤 Author
+## 👤 Author
 
 Wajahat Naseem
 Aspiring Data Analyst | Power BI Developer
