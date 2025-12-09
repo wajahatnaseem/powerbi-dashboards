@@ -9,7 +9,7 @@ Each dashboard below demonstrates business-focused data modeling, advanced DAX, 
 - Dynamic KPI switching (COGS / Profit / Revenue)
 - YoY Growth, Rolling Averages, Tooltips
 - 📂 [View Project](./Executive-Sales-Performance-Dashboard)
-
+<!--
 ### 2️⃣ HR Analytics Dashboard
 - Attrition, hiring trends, performance analysis
 - 📂 [View Project](./HR-Analytics-Dashboard)
@@ -17,3 +17,4 @@ Each dashboard below demonstrates business-focused data modeling, advanced DAX, 
 ### 3️⃣ Financial Profitability Dashboard
 - Cost vs Revenue vs Profit analysis
 - 📂 [View Project](./Finance-Profitability-Dashboard)
+-->
