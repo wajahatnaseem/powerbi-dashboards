@@ -89,16 +89,17 @@ SWITCH(
     "Profit", [Total Profit],
     "Revenue", [Total Revenue]
 )
+```
 
-Additional metrics include:
+📊 Additional Metrics Implemented
 
-YoY Growth %
+✅ YoY Growth %
 
-Rolling 3-Month Average
+✅ Rolling 3-Month Average
 
-Dynamic Ranking
+✅ Dynamic Ranking
 
-Contribution %
+✅ Contribution %
 
 📌 Key Business Insights (Sample)
 
@@ -173,7 +174,3 @@ If you find this project useful:
 💬 Share your feedback or suggestions
 
 Thank you for visiting!
-
-
----
-
