@@ -153,7 +153,7 @@ SWITCH(
 
 ## 👤 Author
 
-**Wajahat Naseem**  
+**Mohd Wajahatullah Naseem**  
 Aspiring Data Analyst | Power BI Developer  
 🔗 GitHub: https://github.com/wajahatnaseem  
 
