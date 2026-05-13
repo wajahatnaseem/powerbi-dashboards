@@ -2,9 +2,7 @@
 
 ![Dashboard Preview](./Airline-Operations-Performance-Dashboard.png)
 
-## 🌐 Live Dashboard
-
-[![Open Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiMmU4YWI1MWYtMTk0ZS00NzljLWIyYzctMDM4YjQxMjA5ZTE1IiwidCI6IjFkZjNkMzdmLTkzZGMtNDI5Ny1hYzcyLTRhNWYzZWVkZmNmMiJ9)
+## 🌐 Live Dashboard (https://app.powerbi.com/view?r=eyJrIjoiMmU4YWI1MWYtMTk0ZS00NzljLWIyYzctMDM4YjQxMjA5ZTE1IiwidCI6IjFkZjNkMzdmLTkzZGMtNDI5Ny1hYzcyLTRhNWYzZWVkZmNmMiJ9)
 
 🔗 Click the dashboard preview above to open the interactive Power BI report.
 
