@@ -1,6 +1,6 @@
 # ✈️ Airline Operations Performance Dashboard (Power BI)
 
-![Dashboard Preview](./assets/Airline-Operations-Performance-Dashboard.png)
+![Dashboard Preview](./Airline-Operations-Performance-Dashboard.png)
 
 ## 🌐 Live Dashboard
 
