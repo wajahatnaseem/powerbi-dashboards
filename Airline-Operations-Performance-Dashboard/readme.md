@@ -296,3 +296,31 @@ DIVIDE(
     [On-Time Flights],
     [Total Flights]
 )
+
+
+
+## ⚠️ Disclaimer
+
+- The dataset used in this project is for **demonstration and learning purposes only**.
+- This dashboard does **not represent real company data**.
+- Some visuals may require **map permissions** to be enabled in Power BI.
+
+---
+
+## 👤 Author
+
+**Mohd Wajahatullah Naseem**  
+Aspiring Data Analyst | Power BI Developer  
+🔗 GitHub: https://github.com/wajahatnaseem  
+
+---
+
+## ⭐ Support
+
+If you find this project useful:
+
+- ⭐ Star this repository  
+- 🍴 Fork it to build your own version  
+- 💬 Share your feedback or suggestions  
+
+Thank you for visiting!
