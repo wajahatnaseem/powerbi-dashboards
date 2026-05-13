@@ -299,28 +299,84 @@ DIVIDE(
 ```
 
 
-## ⚠️ Disclaimer
+# 📊 Additional Metrics Implemented
 
-- The dataset used in this project is for **demonstration and learning purposes only**.
-- This dashboard does **not represent real company data**.
-- Some visuals may require **map permissions** to be enabled in Power BI.
+- ✅ Delay Percentage Analysis
+- ✅ Cancellation Rate Monitoring
+- ✅ On-Time Performance Tracking
+- ✅ Airport Traffic Analysis
+- ✅ Airline Ranking Analysis
+- ✅ Operational Trend Monitoring
+- ✅ Delay Reason Contribution Analysis
 
 ---
 
-## 👤 Author
+# 📌 Key Business Insights
 
-**Mohd Wajahatullah Naseem**  
+- Weather-related disruptions contribute significantly to operational delays.
+- Certain airlines consistently maintain stronger on-time performance.
+- High-traffic airports experience higher operational bottlenecks.
+- Delay percentages are substantially higher than cancellation percentages.
+- Operational efficiency varies significantly across airlines and airports.
+
+---
+
+# 🧠 Skills Demonstrated
+
+- Power BI Dashboard Development
+- Operational Analytics
+- Data Visualization & Storytelling
+- DAX Measures & KPI Calculations
+- Star Schema Data Modeling
+- Relationship Modeling
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+- Comparative Performance Analysis
+
+---
+
+# 🧰 Tools & Technologies
+
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Data Modeling
+- Interactive Visualizations
+- Business Intelligence Techniques
+
+---
+
+# ⬇️ Download Instructions
+
+1. Click on the `.pbix` file in this repository.
+2. Click **View Raw** to download the file.
+3. Open using **Power BI Desktop**.
+
+---
+
+# ⚠️ Disclaimer
+
+- This project is created for learning and portfolio purposes only.
+- The dataset used does not represent real airline company operations.
+- Metrics and insights are intended for demonstration of analytics and visualization techniques.
+
+---
+
+# 👤 Author
+
+**Wajahat Naseem**  
 Aspiring Data Analyst | Power BI Developer  
-🔗 GitHub: https://github.com/wajahatnaseem  
+
+🔗 GitHub: https://github.com/wajahatnaseem
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
-If you find this project useful:
+If you found this project useful:
 
-- ⭐ Star this repository  
-- 🍴 Fork it to build your own version  
-- 💬 Share your feedback or suggestions  
+- ⭐ Star this repository
+- 🍴 Fork it to build your own version
+- 💬 Share your feedback or suggestions
 
 Thank you for visiting!
