@@ -2,6 +2,12 @@
 
 ![Dashboard Preview](./assets/dashboard-preview.png)
 
+## 🌐 Live Dashboard
+
+[![Open Dashboard](./assets/dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMmU4YWI1MWYtMTk0ZS00NzljLWIyYzctMDM4YjQxMjA5ZTE1IiwidCI6IjFkZjNkMzdmLTkzZGMtNDI5Ny1hYzcyLTRhNWYzZWVkZmNmMiJ9)
+
+🔗 Click the dashboard preview above to open the interactive Power BI report.
+
 This project presents an **interactive Airline Operations Performance Dashboard** built using **Power BI**.  
 The dashboard focuses on analyzing **flight operations, delays, cancellations, airline performance, and airport activity** to help identify operational inefficiencies and performance trends.
 
