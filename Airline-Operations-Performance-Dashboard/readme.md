@@ -2,28 +2,49 @@
 
 ![Dashboard Preview](./Airline-Operations-Performance-Dashboard.png)
 
-## 🌐 Live Dashboard [[Open Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiMmU4YWI1MWYtMTk0ZS00NzljLWIyYzctMDM4YjQxMjA5ZTE1IiwidCI6IjFkZjNkMzdmLTkzZGMtNDI5Ny1hYzcyLTRhNWYzZWVkZmNmMiJ9)
+[![Power BI](https://img.shields.io/badge/View-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMmU4YWI1MWYtMTk0ZS00NzljLWIyYzctMDM4YjQxMjA5ZTE1IiwidCI6IjFkZjNkMzdmLTkzZGMtNDI5Ny1hYzcyLTRhNWYzZWVkZmNmMiJ9)
 
-🔗 Click the dashboard preview above to open the interactive Power BI report.
+## 🌐 Live Dashboard
 
-This project presents an **interactive Airline Operations Performance Dashboard** built using **Power BI**.  
-The dashboard focuses on analyzing **flight operations, delays, cancellations, airline performance, and airport activity** to help identify operational inefficiencies and performance trends.
-
-This project is designed for:
-- ✅ **Data Analyst / Business Intelligence Interviews**
-- ✅ **Operational Analytics Demonstrations**
-- ✅ **Portfolio & Dashboard Showcasing**
-- ✅ **Aviation Performance Reporting**
+🔗 Click the dashboard preview image above or the badge to open the interactive Power BI report.
 
 ---
 
-## 🎯 Business Objectives
+## 📌 Project Overview
 
-This dashboard helps answer important operational questions such as:
+This project presents an **interactive Airline Operations Performance Dashboard** built using **Power BI**.  
+The dashboard focuses on analyzing:
 
-- Which airlines maintain the **best on-time performance**?
-- What are the major causes of **flight delays and cancellations**?
-- Which airports handle the **highest traffic volume**?
+- Flight operations
+- Flight delays
+- Flight cancellations
+- Airline operational efficiency
+- Airport traffic performance
+- Delay reason distribution
+
+The goal of this dashboard is to help identify:
+- Operational bottlenecks
+- Delay patterns
+- Airline performance trends
+- Airport traffic concentration
+- Flight status distribution
+
+This project is designed for:
+
+- ✅ Data Analyst / Business Intelligence Interviews
+- ✅ Operational Analytics Demonstrations
+- ✅ Portfolio & Dashboard Showcasing
+- ✅ Aviation Performance Reporting
+
+---
+
+# 🎯 Business Objectives
+
+This dashboard helps answer important business and operational questions such as:
+
+- Which airlines maintain the best on-time performance?
+- What are the major causes of delays and cancellations?
+- Which airports handle the highest flight traffic?
 - How do operational metrics vary across airlines?
 - What percentage of flights are:
   - On-Time
@@ -32,136 +53,246 @@ This dashboard helps answer important operational questions such as:
 
 ---
 
-## 🚀 Key Features
+# 🚀 Key Features
 
-- ✅ **Interactive Operational KPI Dashboard**
-- ✅ **Flight Delay & Cancellation Analysis**
-- ✅ **Airline Performance Comparison**
-- ✅ **Airport Traffic Monitoring**
-- ✅ **Delay Reason Distribution Analysis**
-- ✅ **On-Time Performance Tracking**
-- ✅ **Executive KPI Cards**
-- ✅ **Modern & Minimal Dashboard Design**
-- ✅ **Business-Oriented Data Storytelling**
+- ✅ Interactive KPI Dashboard
+- ✅ Airline Performance Analysis
+- ✅ Airport Traffic Analysis
+- ✅ Flight Delay Monitoring
+- ✅ Cancellation Analysis
+- ✅ Delay Reason Distribution
+- ✅ Operational KPI Tracking
+- ✅ Interactive Visualizations
+- ✅ Minimal & Executive Dashboard Design
 
 ---
 
-## 📊 KPIs Tracked
+# 📊 KPIs Tracked
 
-The dashboard monitors the following operational metrics:
+The dashboard tracks the following key operational metrics:
 
 - Total Flights
-- Total Delayed Flights
-- Total Cancelled Flights
-- On-Time Percentage
+- Delayed Flights
+- Cancelled Flights
+- On-Time Flights
 - Delay Percentage
 - Cancellation Percentage
-- Airline Performance Score
+- On-Time Percentage
+- Airline Performance Metrics
 - Airport Traffic Volume
 
 ---
 
-## ▶️ Dashboard Walkthrough
+# ▶️ Dashboard Walkthrough
 
-### 🔹 Top KPI Cards
-Displays:
-- Total operational volume
-- Delayed flights
-- Cancelled flights
-- Trend indicators for operational changes
+## 🔹 KPI Cards
 
----
+The top section displays high-level operational KPIs such as:
 
-### 🔹 Airport Performance Analysis
-Highlights airports with:
-- Highest traffic
-- Operational bottlenecks
-- Delay concentration
+- Total Flights
+- Delayed Flights
+- Cancelled Flights
+- Trend Indicators
+
+These KPIs provide quick executive-level operational monitoring.
 
 ---
 
-### 🔹 Airline Performance Comparison
-Ranks airlines based on:
-- On-time efficiency
-- Delay rates
-- Operational consistency
+## 🔹 Airport Traffic Analysis
+
+Analyzes airports based on:
+
+- Total Flights
+- Traffic Volume
+- Delay Concentration
+- Operational Bottlenecks
+
+This helps identify high-traffic and high-delay airports.
 
 ---
 
-### 🔹 Delay Reason Analysis
-Breaks delays into categories such as:
+## 🔹 Airline Performance Analysis
+
+Compares airlines using:
+
+- On-Time Performance
+- Delay Percentage
+- Operational Consistency
+- Flight Efficiency
+
+This helps evaluate operational performance across carriers.
+
+---
+
+## 🔹 Delay Reason Analysis
+
+Delays and cancellations are categorized into:
+
 - Weather
 - Airline/Carrier
 - National Air System
 - Security
 
-This helps identify the primary operational challenges affecting performance.
+This enables root-cause analysis of operational disruptions.
 
 ---
 
-### 🔹 Flight Status Distribution
-Displays the percentage of:
-- On-Time Flights
-- Delayed Flights
-- Cancelled Flights
+## 🔹 Flight Status Distribution
 
-for quick executive-level monitoring.
+Displays operational distribution of flights into:
+
+- On-Time
+- Delayed
+- Cancelled
+
+for quick operational performance evaluation.
 
 ---
 
-## 🧠 Data Model Overview
+# 🧠 Data Model Overview
 
-The dashboard follows a **Star Schema Data Model** for optimized performance and scalability.
+The dashboard follows a **Star Schema-inspired Data Model** for optimized performance and analytical flexibility.
 
-### Fact Table
-- `Flights`
+---
 
-### Dimension Tables
-- `Airline`
-- `Airport`
-- `Date`
-- `Delay Category`
+## 📌 Fact Table
+
+### `flights`
+
+The central fact table contains operational flight-level metrics and transactional flight data.
+
+### Key Fields:
+- `AIRLINE`
+- `ORIGIN_AIRPORT`
+- `CANCELLATION_REASON`
+- `DEPARTURE_DELAY`
+- `YEAR`
+- `MONTH`
+- `DAY`
+- `DAY_OF_WEEK`
+- `Status`
+
+### Calculated Measures:
+- `% Cancelled`
+- `% Delayed`
+- `% On-Time Flights`
+- `Cancelled Flights`
+- `Delayed Flights`
+- `On-Time Flights`
+- `Total Flights`
+
+---
+
+## 📌 Dimension Tables
+
+### `airlines`
+Contains airline reference information.
+
+#### Fields:
+- `AIRLINE`
+- `IATA_CODE`
+
+---
+
+### `airports`
+Contains airport and geographical information.
+
+#### Fields:
+- `AIRPORT`
+- `CITY`
+- `STATE`
+- `COUNTRY`
+- `IATA_CODE`
+- `LATITUDE`
+- `LONGITUDE`
+
+---
+
+### `cancellation_codes`
+Contains cancellation reason mappings.
+
+#### Fields:
+- `CANCELLATION_REASON`
+- `CANCELLATION_DESCRIPTION`
+
+---
+
+### `Dim_Days`
+Used for day-level operational analysis.
+
+#### Fields:
+- `Day Name`
+- `Day_Name`
+- `Day_of_Week`
+
+---
+
+### `DimDayNew`
+Used for sorting and display optimization.
+
+#### Fields:
+- `DayName`
+- `DayNumber`
+
+---
+
+# 🔗 Relationships & Model Design
+
+The model uses one-to-many relationships between:
+
+- Airlines → Flights
+- Airports → Flights
+- Cancellation Codes → Flights
+- Day Dimensions → Flights
 
 This structure enables:
+
 - Faster filtering
 - Better DAX performance
-- Clean relationships
-- Scalable analytics
+- Scalable reporting
+- Clean analytical relationships
+- Efficient operational slicing
 
 ---
 
-## 🧮 Key DAX Measures Used
+# 🧮 Key DAX Measures Used
 
 ```DAX
 Total Flights =
-COUNT(Flights[Flight Number])
+COUNTROWS(flights)
 
 Delayed Flights =
 CALCULATE(
-    COUNT(Flights[Flight Number]),
-    Flights[Status] = "Delayed"
+    [Total Flights],
+    flights[Status] = "Delayed"
 )
 
 Cancelled Flights =
 CALCULATE(
-    COUNT(Flights[Flight Number]),
-    Flights[Status] = "Cancelled"
+    [Total Flights],
+    flights[CANCELLED] = 1
 )
 
-On-Time % =
-DIVIDE(
-    [On-Time Flights],
-    [Total Flights]
+On-Time Flights =
+CALCULATE(
+    [Total Flights],
+    flights[Status] = "On-Time"
 )
 
-Delay % =
+% Delayed =
 DIVIDE(
     [Delayed Flights],
     [Total Flights]
 )
 
-Cancellation % =
+% Cancelled =
 DIVIDE(
     [Cancelled Flights],
+    [Total Flights]
+)
+
+% On-Time Flights =
+DIVIDE(
+    [On-Time Flights],
     [Total Flights]
 )
